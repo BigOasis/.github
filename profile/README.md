@@ -40,6 +40,10 @@
    - Java: `java/FE_이름`  
    - Python: `python/FE_이름`  
      예) `java/FE_EunseoPark`, `python/FE_EunseoPark`
+4. **주차별 문제 구성**
+   * **예제**: 필수로 전부 풀이
+   * **과제**: 선택적으로 풀이 가능
+   * **스터디**: 스터디 당일에 공개되며, **스터디 장이 랜덤으로 선정**되어 진행
 <br/><br/>
 
 
