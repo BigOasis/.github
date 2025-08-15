@@ -7,6 +7,7 @@
 | **진행 공간** | Discord / GitHub |
 | **정기 스터디 시간** | 매주 **화요일** 오전 10:00 ~ 12:00 |
 
+<br/>
 
 ## 📅 진행 일정
 
@@ -20,8 +21,9 @@
 | 6주차 | 09.23 ~ 09.26      | DP |
 | 7주차~| 09.27 ~            | 기출문제 풀이 |
 
-> 📌 매주 **화요일 오전 10시**에 [노션 페이지](https://www.notion.so/BigOasis-250f2d50525c80959574e70654358f70?source=copy_link)에 문제 공개
+> 📌 매주 **화요일 오전 10시**에 [노션 페이지](https://www.notion.so/BigOasis-250672106a20807ca6e0f592c364e091?source=copy_link)에 문제 공개
 
+<br/>
 
 ## 🙋‍♂️ 정규 스터디 참여 방법
 
@@ -41,7 +43,7 @@
    * **예제**: 필수로 전부 풀이
    * **과제**: 필수로 전부 풀이
    * **스터디**: 스터디 당일에 공개되며, **스터디 장이 랜덤으로 선정**하여 진행
-
+<br/>
 
 ## 🛠 진행 순서
 
@@ -53,7 +55,7 @@
 4. 문제 풀이 후 **PR 생성**
 5. 모든 팀원이 코드 리뷰 작성
 6. 스터디장/부장이 최종 머지
-
+<br/>
 
 
 ## 📂 폴더 구조
@@ -70,7 +72,7 @@
      ├── PGS_게임.java
      └── LTC_문제명.java
 ```
-
+<br/>
 
 ## 📌 Commit 컨벤션
 > {이모지}{태그}: {클래스 이름(플랫폼_문제번호_문제제목)}_{메시지}
@@ -96,6 +98,7 @@
 [230809] PGS 다트 게임 - 1문제
 ```
 
+<br/>
 
 ## 스터디장 소개
 
@@ -106,9 +109,9 @@
 | <img src="https://avatars.githubusercontent.com/u/88071251?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/77565980?v=4" width="96"> |
 | [@arty0928](https://github.com/arty0928)                                    | [@abyss-s](https://github.com/abyss-s)                                      |
 
-
+<br/>
 
 ## 📎 참고
-- **노션 문제집**: [바로가기](https://www.notion.so/BigOasis-250f2d50525c80959574e70654358f70?source=copy_link)
+- **노션 문제집**: [바로가기](https://www.notion.so/BigOasis-250672106a20807ca6e0f592c364e091?source=copy_link)
 - **진행 공간**: Discord / GitHub
 
