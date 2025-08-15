@@ -98,6 +98,8 @@
 ```
 [230809] PGS 다트 게임 - 1문제
 ```
+> [PR 예시] (https://github.com/BigOasis/Java/pull/1)
+
 
 <br/>
 
