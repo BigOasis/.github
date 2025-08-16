@@ -98,8 +98,9 @@
 ```
 [230809] PGS 다트 게임 - 1문제
 ```
-> [PR 예시] (https://github.com/BigOasis/Java/pull/1)
-
+**PR 예시**
+- [자바](https://github.com/BigOasis/Java/pull/1)
+- [파이썬](https://github.com/BigOasis/Python/pull/1)
 
 <br/>
 
