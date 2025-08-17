@@ -37,8 +37,8 @@
      - 25분: 서로 코드 리뷰 및 의견 나누기
 3. **레포지토리 브랜치 생성 규칙**  
    - Java: `java/FE_이름`  
-   - Python: `python/FE_이름`  
-     예) `java/FE_EunseoPark`, `python/FE_EunseoPark`
+   - Python: `python/이름`  
+     예) `java/EunseoPark`, `python/EunseoPark`
 4. **주차별 문제 분류**
    * **예제**: 필수로 전부 풀이
    * **과제**: 필수로 전부 풀이
