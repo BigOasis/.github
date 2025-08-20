@@ -64,7 +64,7 @@
 
    * 본인이 속한 조가 아니어도 선택적으로 리뷰 가능
 7. 본인의 PR 리뷰를 모두 확인한 뒤, **본인이 최종 머지**
-
+<br/>
 
 ### Java 반
 
@@ -82,7 +82,7 @@
 6. 모든 팀원들이 **코드 리뷰 작성 (필수)**
 7. 스터디장/부장이 최종 머지
 
-
+<br/>
 ## 📂 폴더 구조
 
 > 플랫폼 태그  
@@ -133,7 +133,7 @@ feat: BOJ_1018_체스판다시칠하기_체스판
 |---------------------------|--------|--------|--------|--------|--------|
 | <img src="https://avatars.githubusercontent.com/u/77565980?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/124412137?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/195983909?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/55499429?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/195768537?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/127181459?v=4" width="96"> |
 | [@abyss-s](https://github.com/abyss-s) | [@qowldk](https://github.com/qowldk) | [@minji-38](https://github.com/minji-38) | [@alotofhee](https://github.com/alotofhee) | [@choi-hi](https://github.com/choi-hi) | [@gichulLimitLess](https://github.com/gichulLimitLess) |
-
+<br/>
 ### ☕ Java
 
 | 박은서 <br/> *(스터디장)* | 박교녕 | 이은채 | 서보인 |
@@ -146,4 +146,4 @@ feat: BOJ_1018_체스판다시칠하기_체스판
 ## 📎 참고
 - **노션 문제집**: [바로가기](https://www.notion.so/BigOasis-250672106a20807ca6e0f592c364e091?source=copy_link)
 - **진행 공간**: Discord / GitHub
-```
+
