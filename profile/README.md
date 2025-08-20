@@ -32,31 +32,55 @@
 2. **문제 풀이 & 리뷰**  
    - 각 주차 문제를 정규 시간 전까지 풀고, PR에 리뷰 코멘트를 작성
    - **정규 시간 진행**  
-     - 1시간 20분: 공통 문제 1개 풀이  
-     - 15분: 풀이 정리 후 PR 생성  
-     - 25분: 서로 코드 리뷰 및 의견 나누기
+     - 60분: 공통 문제 1개 풀이  
+     - 60분: 이전 주차 모든 내용 PR 한번에 올리기 (예제, 과제, 스터디 포함)  
+       → 과제, 스터디 문제 위주 코드 리뷰
 3. **레포지토리 브랜치 생성 규칙**  
-   - Java: `java/FE_이름`  
-   - Python: `python/이름`  
-     예) `java/EunseoPark`, `python/EunseoPark`
+   - Java: `java/영문이름`  
+   - Python: `python/영문이름`  
+     예) `java/EunseoPark`, `python/YoungjuLee`
 4. **주차별 문제 분류**
    * **예제**: 필수로 전부 풀이
    * **과제**: 필수로 전부 풀이
    * **스터디**: 스터디 당일에 공개되며, **스터디 장이 랜덤으로 선정**하여 진행
-<br/>
 
 ## 🛠 진행 순서
 
+### Python 반
+
 1. **main 브랜치 pull**
-2. `git checkout -b java/EunseoPark` 로 개인 브랜치 파기
-3. 지정 폴더 구조로 문제 코드 작성  
-   예) `EunseoPark / Week1 / BOJ_1018_체스판다시칠하기.java`
-4. 각 주차 문제별 **이슈 생성**  
+2. `git checkout -b python/이름` 으로 개인 브랜치 생성
+3. 지정 폴더 구조로 문제 코드 작성
+   예) `EunseoPark/Week1/BOJ_1018_체스판다시칠하기.py`
+4. 각 주차 **이슈 생성**
    예) `[Week1] BOJ_1018_체스판다시칠하기`
 5. 문제 풀이 후 **PR 생성**
-6. 모든 팀원이 코드 리뷰 작성
+
+   * 예제, 과제, 스터디 문제 풀이 후 정규 스터디 시간에 **PR 생성 1회**
+   * [자체 코드조짜기 프로그램](https://big-oasis-team-divider.vercel.app/)으로 이번 주 코드리뷰 조 배정
+   * 본인을 제외한 나머지 2명을 리뷰어로 지정
+   * 문제를 풀지 못했을 경우에도 접근 방법을 PR에 작성하기
+6. 이번 주 **조원들에게 코드 리뷰 작성 (필수)**
+
+   * 본인이 속한 조가 아니어도 선택적으로 리뷰 가능
+7. 본인의 PR 리뷰를 모두 확인한 뒤, **본인이 최종 머지**
+
+
+### Java 반
+
+1. **main 브랜치 pull**
+2. `git checkout -b java/이름` 으로 개인 브랜치 생성
+3. 지정 폴더 구조로 문제 코드 작성
+   예) `EunseoPark/Week1/BOJ_1018_체스판다시칠하기.java`
+4. 각 주차 **이슈 생성**
+   예) `[Week1] BOJ_1018_체스판다시칠하기`
+5. 문제 풀이 후 **PR 생성**
+
+   * 예제, 과제, 스터디 문제 풀이 후 정규 스터디 시간에 **PR 생성 1회**
+   * 리뷰어는 **모든 팀원**을 지정
+   * 문제를 풀지 못했을 경우에도 접근 방법을 PR에 작성하기
+6. 모든 팀원들이 **코드 리뷰 작성 (필수)**
 7. 스터디장/부장이 최종 머지
-<br/>
 
 
 ## 📂 폴더 구조
@@ -67,55 +91,59 @@
 > - LTC: 리트코드
 
 ```
+
 이름 /
- └── Week1 /
-     ├── BOJ_1018_체스판다시칠하기.java
-     ├── PGS_게임.java
-     └── LTC_문제명.java
+└── Week1 /
+├── BOJ_1018_체스판다시칠하기.java
+├── PGS_게임.java
+└── LTC_문제명.java
+
 ```
+
 <br/>
 
 ## 📌 Commit 컨벤션
-> {이모지}{태그}: {클래스 이름(플랫폼_문제번호_문제제목)}_{메시지}
-```
-✨feat: BOJ_1018_체스판다시칠하기_체스판 로직 구현
+> {태그}: {클래스 이름(플랫폼_문제번호_문제제목)}
 ```
 
+feat: BOJ_1018_체스판다시칠하기_체스판
 
-| 이모지 | 태그       | 설명 |
-|--------|-----------|------|
-| ✨     | feat      | 새로운 기능 추가 |
-| 🐛     | fix       | 버그 수정 |
-| ♻️     | refactor  | 코드 리팩토링 |
-| ✏️     | comment   | 주석 추가(코드 변경 없음) / 오타 수정 |
-| 📝     | docs      | 문서 수정 (README 등) |
-| 🔀     | merge     | 브랜치 병합 |
-| 🚚     | rename    | 파일/폴더명 수정 또는 이동 |
-
-
-## 📌 PR 규칙
-> [날짜] {플랫폼 or 언어} {문제 제목} - {기타 내용}
 ```
-[230809] PGS 다트 게임 - 1문제
-```
-**PR 예시**
-- [자바](https://github.com/BigOasis/Java/pull/1)
-- [파이썬](https://github.com/BigOasis/Python/pull/1)
 
 <br/>
 
-## 스터디장 소개
+## 📌 PR 규칙
 
-> 유레카 SW교육과정 2기 프론트엔드 멤버
+> [주차] 영문_이름 - {푼문제개수}문제  
 
-| 박은서 <br/> *(Java 스터디장)*                                                     | 이영주 <br/> *(Python 스터디장)*                                                   |
-| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <img src="https://avatars.githubusercontent.com/u/88071251?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/77565980?v=4" width="96"> |
-| [@arty0928](https://github.com/arty0928)                                    | [@abyss-s](https://github.com/abyss-s)                                      |
+예시:  
+```
+
+[1주차] YoungjuLee - 8문제
+
+```
+
+<br/>
+
+## 스터디 멤버
+
+### 🐍 Python
+
+| 이영주 <br/> *(스터디장)* | 배지아 | 안민지 | 정다희 | 최희승 | 허준호 |
+|---------------------------|--------|--------|--------|--------|--------|
+| <img src="https://avatars.githubusercontent.com/u/77565980?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/124412137?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/195983909?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/55499429?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/195768537?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/127181459?v=4" width="96"> |
+| [@abyss-s](https://github.com/abyss-s) | [@qowldk](https://github.com/qowldk) | [@minji-38](https://github.com/minji-38) | [@alotofhee](https://github.com/alotofhee) | [@choi-hi](https://github.com/choi-hi) | [@gichulLimitLess](https://github.com/gichulLimitLess) |
+
+### ☕ Java
+
+| 박은서 <br/> *(스터디장)* | 박교녕 | 이은채 | 서보인 |
+|---------------------------|--------|--------|--------|
+| <img src="https://avatars.githubusercontent.com/u/88071251?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/80964083?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/171488704?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/63088266?v=4" width="96"> |
+| [@arty0928](https://github.com/arty0928) | [@kny0ng125](https://github.com/kny0ng125) | [@eunchrri](https://github.com/eunchrri) | [@sbi1024](https://github.com/sbi1024) |
 
 <br/>
 
 ## 📎 참고
 - **노션 문제집**: [바로가기](https://www.notion.so/BigOasis-250672106a20807ca6e0f592c364e091?source=copy_link)
 - **진행 공간**: Discord / GitHub
-
+```
