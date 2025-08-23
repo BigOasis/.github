@@ -21,7 +21,8 @@
 | 6주차 | 09.23 ~ 09.26      | DP |
 | 7주차~| 09.27 ~            | 기출문제 풀이 |
 
-> 📌 매주 **화요일 오전 10시**에 [노션 페이지](https://www.notion.so/BigOasis-250672106a20807ca6e0f592c364e091?source=copy_link)에 문제 공개
+> 📌 매주 **화요일 오전 10시**에 [노션 페이지](https://www.notion.so/BigOasis-250672106a20807ca6e0f592c364e091?source=copy_link)에 문제 공개 <br/>
+> [문제출제 및 커리큘럼 제작 : [@arty0928](https://github.com/arty0928) ]
 
 <br/>
 
@@ -83,7 +84,7 @@
    * 리뷰어는 **모든 팀원**을 지정
    * 문제를 풀지 못했을 경우에도 접근 방법을 PR에 작성하기
 6. 모든 팀원들이 **코드 리뷰 작성 (필수)**
-7. 스터디장/부장이 최종 머지
+7. 모둔 팀원의 코드 리뷰가 완료된 PR은 서로 머지하기
 
 <br/>
 
@@ -123,7 +124,7 @@ feat: BOJ_1018_체스판다시칠하기_체스판
 예시:  
 ```
 
-[1주차] YoungjuLee - 8문제
+[1주차] EunseoPark - 8문제
 
 ```
 
@@ -155,3 +156,6 @@ feat: BOJ_1018_체스판다시칠하기_체스판
 - **노션 문제집**: [바로가기](https://www.notion.so/BigOasis-250672106a20807ca6e0f592c364e091?source=copy_link)
 - **진행 공간**: Discord / GitHub
 
+
+---
+스터디 운영 : [@arty0928](https://github.com/arty0928) [@abyss-s](https://github.com/abyss-s)
