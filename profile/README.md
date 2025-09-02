@@ -134,10 +134,10 @@ feat: BOJ_1018_체스판다시칠하기_체스판
 
 ### 🐍 Python
 
-| 이영주 <br/> *(스터디장)* | 배지아 | 안민지 | 정다희 | 최희승 | 허준호 |
-|---------------------------|--------|--------|--------|--------|--------|
+| 이영주 <br/> *(스터디장)* | 배지아 | 안민지 | 정다희 | 최희승 | 
+|---------------------------|--------|--------|--------|--------|
 | <img src="https://avatars.githubusercontent.com/u/77565980?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/124412137?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/195983909?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/55499429?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/195768537?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/127181459?v=4" width="96"> |
-| [@abyss-s](https://github.com/abyss-s) | [@qowldk](https://github.com/qowldk) | [@minji-38](https://github.com/minji-38) | [@alotofhee](https://github.com/alotofhee) | [@choi-hi](https://github.com/choi-hi) | [@gichulLimitLess](https://github.com/gichulLimitLess) |
+| [@abyss-s](https://github.com/abyss-s) | [@qowldk](https://github.com/qowldk) | [@minji-38](https://github.com/minji-38) | [@alotofhee](https://github.com/alotofhee) | [@choi-hi](https://github.com/choi-hi) |
 
 
 <br/>
@@ -145,10 +145,10 @@ feat: BOJ_1018_체스판다시칠하기_체스판
 
 ### ☕ Java
 
-| 박은서 <br/> *(스터디장)* | 박교녕  | 서보인 |
-|---------------------------|--------|--------|
-| <img src="https://avatars.githubusercontent.com/u/88071251?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/80964083?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/63088266?v=4" width="96"> |
-| [@arty0928](https://github.com/arty0928) | [@kny0ng125](https://github.com/kny0ng125)  | [@sbi1024](https://github.com/sbi1024) |
+| 박은서 <br/> *(스터디장)* | 박교녕  | 
+|---------------------------|--------|
+| <img src="https://avatars.githubusercontent.com/u/88071251?v=4" width="96"> | <img src="https://avatars.githubusercontent.com/u/80964083?v=4" width="96"> |
+| [@arty0928](https://github.com/arty0928) | [@kny0ng125](https://github.com/kny0ng125)  |
 
 <br/>
 
